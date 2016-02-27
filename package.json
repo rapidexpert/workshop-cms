@@ -1,0 +1,24 @@
+{
+  "name": "workshop-cms",
+  "version": "1.0.0",
+  "description": "Learning NodeJS to make a CMS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidexpert/workshop-cms.git"
+  },
+  "keywords": [
+    "CMS",
+    "node",
+    "git"
+  ],
+  "author": "Rainey D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapidexpert/workshop-cms/issues"
+  },
+  "homepage": "https://github.com/rapidexpert/workshop-cms#readme"
+}
